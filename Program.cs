@@ -600,6 +600,9 @@ namespace Tarea24
     {
         static void Main(string[] args)
         {
+            M1.Execute();
+            M2.Execute();
+            M3.Execute();
             M4.Execute();
         }
     }
